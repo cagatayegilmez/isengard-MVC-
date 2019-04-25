@@ -1,0 +1,6 @@
+framework module Pods_Isengard {
+  umbrella header "Pods-Isengard-umbrella.h"
+
+  export *
+  module * { export * }
+}
